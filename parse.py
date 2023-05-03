@@ -1,6 +1,7 @@
 import collections
 import csv
 
+
 def split_arpa_phonemes(arpa):
     splitted_word = []
     print(arpa)
